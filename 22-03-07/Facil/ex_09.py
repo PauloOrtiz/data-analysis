@@ -1,0 +1,1 @@
+# Escreva um programa que recebe uma lista de strings e retorna uma nova lista com o comprimento de cada string.
